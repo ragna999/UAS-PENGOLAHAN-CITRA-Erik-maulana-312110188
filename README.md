@@ -32,6 +32,6 @@ Kelas            : TI.21.C.1
 
 * **Berikut ini  hasil dari program yang sudah di buaT** *
 
-  !(ss1/ss1.JGP)
+  ![](ss1/ss1.JGP)
 
 
