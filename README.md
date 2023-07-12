@@ -8,8 +8,8 @@ Nama             : Erik Maulana
 Nim              : 312110188
 Kelas            : TI.21.C.1
 ```
-* **Berikut penjelasan singkat komponen utama dalam kode program tersebut :**  
-```
+* **Berikut penjelasan singkat komponen utama dalam kode program tersebut :**
+  
 1.) Import library:
     - `tkinter`: untuk membuat antarmuka grafis.
     - `math`: Digunakan untuk operasi matematika.
@@ -27,11 +27,18 @@ Kelas            : TI.21.C.1
 
 5.) Kelas `Application` yang mewarisi `tk.Tk`: Merupakan kelas utama yang mengatur antarmuka aplikasi dan interaksi pengguna. Pada konstruktor, elemen-elemen antarmuka seperti judul, frame gambar, label, tombol, dan sebagainya diinisialisasi dan ditampilkan. Ada juga metode `upload_image()` untuk mengunggah gambar, `process_image()` untuk memproses gambar dengan metode median filter, dan `display_image()` untuk menampilkan gambar pada canvas.
 
-6.) Pada bagian terakhir, kode program memeriksa apakah file ini dijalankan langsung (`__name__ == "__main__"`) dan kemudian membuat objek `Application` dan memulai aplikasi dengan metode `mainloop()`.
-```
+6.) Pada bagian terakhir, kode program memeriksa apakah file ini dijalankan langsung (`__name__ == "__main__"`) kemudian membuat objek `Application` dan memulai aplikasi dengan metode `mainloop()`.
 
-* **Berikut ini  hasil dari program yang sudah di buat** *
+* **Berikut ini  hasil dari program yang sudah di buat**
 
-  ![gambar](ss1/ss1.JGP)
+  ![gambar](ss1/ss1.jpg)
+
+  * **Untuk menjalankan kode program tersebut, Yaitu perlu menginstal beberapa library. Berikut adalah daftar library yang perlu diinstal :**
+  
+1. Tkinter: Library ini biasanya sudah terpasang secara default jika Anda menggunakan distribusi Python standar seperti CPython.
+
+2. PIL: Library ini digunakan untuk memanipulasi dan menampilkan gambar.
+   
+4. NumPy: Library ini digunakan untuk operasi numerik pada array.
 
 
