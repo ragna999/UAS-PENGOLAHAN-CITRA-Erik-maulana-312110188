@@ -30,8 +30,8 @@ Kelas            : TI.21.C.1
 6.) Pada bagian terakhir, kode program memeriksa apakah file ini dijalankan langsung (`__name__ == "__main__"`) dan kemudian membuat objek `Application` dan memulai aplikasi dengan metode `mainloop()`.
 ```
 
-* **Berikut ini  hasil dari program yang sudah di buaT** *
+* **Berikut ini  hasil dari program yang sudah di buat** *
 
-  ![](ss1/ss1.JGP)
+  ![gambar](ss1/ss1.JGP)
 
 
